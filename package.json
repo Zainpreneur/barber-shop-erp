@@ -1,0 +1,9 @@
+{
+  "name": "barber-shop-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "barber-shop-erp",
+  "scripts": {
+    "start": "echo \"No root entrypoint; inspect repository contents\""
+  }
+}
